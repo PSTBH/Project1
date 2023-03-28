@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1280"
+   height="720"
+   overflow="hidden"
+   version="1.1"
+   id="svg35"
+   sodipodi:docname="Downtown - 1.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview37"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.75694444"
+     inkscape:cx="640.07339"
+     inkscape:cy="359.33945"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg35" />
+  <defs
+     id="defs5">
+    <clipPath
+       id="clip0">
+      <rect
+         x="0"
+         y="0"
+         width="1280"
+         height="720"
+         id="rect2" />
+    </clipPath>
+  </defs>
+  <rect
+     x="0"
+     y="0"
+     width="1280"
+     height="720"
+     fill="#ffffff"
+     id="rect7" />
+  <path
+     d="M 606.224,166.771 692.137,98 l 8.113,75.456 23.231,51.207 41.483,40.378 27.236,28.254 c 0.627,27.557 -1.111,51.834 -0.484,79.391 -0.434,14.25 -0.869,28.5 -1.303,42.75 L 831,500.926 813.399,572.605 660.843,582 587.39,580.121 513.937,557.575 453.668,501.209 427.301,442.964 416,401.629 l 7.534,-110.853 9.417,-107.094 54.619,7.514 35.783,-1.878 z"
+     fill="#44546a"
+     fill-rule="evenodd"
+     fill-opacity="0.0588235"
+     id="D1-Downtown" />
+  <path
+     d="m 700.046,362 83.549,9.036 3.447,42.394 43.958,97.099 -16.438,61.101 c -73.099,2.61 -154.135,10.485 -219.296,7.831 L 546,566.7 615.893,546.932 604.39,408.384 l 46.617,23.493 z"
+     fill="#a6a6a6"
+     fill-rule="evenodd"
+     fill-opacity="0.698039"
+     id="D1-Precinct3" />
+  <path
+     d="m 683.656,329 v 0 L 628.735,249.89 564.762,264.384 537,183.462 607.235,164.515 688.044,106 l 8.886,74.214 20.832,44.571 33.023,30.21 27.949,19.41 c 0.201,12.481 13.065,17.203 13.266,29.683 z"
+     fill="#a6a6a6"
+     fill-rule="evenodd"
+     fill-opacity="0.698039"
+     id="D1-Precinct2" />
+  <path
+     d="M 563,264.715 535.285,184.188 490.753,192.532 436.539,180 419,361 l 80.134,-4.814 11.448,-80.037 z"
+     fill="#a6a6a6"
+     fill-rule="evenodd"
+     fill-opacity="0.698039"
+     id="D1-Precinct4" />
+  <path
+     d="m 499.821,356 -80.806,4.829 -3.015,33.197 14.473,65.186 23.385,39.258 61.444,58.121 L 546.169,567 615,547.939 603.542,409.115 532.988,438.087 Z"
+     fill="#a6a6a6"
+     fill-rule="evenodd"
+     fill-opacity="0.698039"
+     id="D1-Precinct5" />
+  <path
+     d="M 681.939,327.538 629.471,250 510.665,274.837 498,356.615 532.375,439 l 71.767,-28.471 46.436,20.596 43.422,-63.606 -4.825,-5.754 -10.403,0.908 -19.298,-2.423 -38.446,-3.332 -10.102,-11.964 z"
+     fill="#a6a6a6"
+     fill-rule="evenodd"
+     fill-opacity="0.698039"
+     id="D1-Precinct1-IncludesGCS" />
+  <text
+     fill="#ffffff"
+     font-family="Calibri, Calibri_MSFontService, sans-serif"
+     font-weight="400"
+     font-size="15px"
+     id="text21"
+     x="540.64398"
+     y="342">PRECINCT 1</text>
+  <text
+     fill="#ffffff"
+     font-family="Calibri, Calibri_MSFontService, sans-serif"
+     font-weight="400"
+     font-size="15px"
+     id="text23"
+     x="556.81097"
+     y="356">&amp; GCS</text>
+  <text
+     fill="#ffffff"
+     font-family="Calibri, Calibri_MSFontService, sans-serif"
+     font-weight="400"
+     font-size="15px"
+     id="text25"
+     x="616.078"
+     y="222">PRECINCT 2</text>
+  <text
+     fill="#ffffff"
+     font-family="Calibri, Calibri_MSFontService, sans-serif"
+     font-weight="400"
+     font-size="15px"
+     id="text27"
+     x="682.09302"
+     y="488">PRECINCT 3</text>
+  <text
+     fill="#ffffff"
+     font-family="Calibri, Calibri_MSFontService, sans-serif"
+     font-weight="400"
+     font-size="15px"
+     id="text29"
+     x="446.91"
+     y="255">PRECINCT 4</text>
+  <text
+     fill="#ffffff"
+     font-family="Calibri, Calibri_MSFontService, sans-serif"
+     font-weight="400"
+     font-size="15px"
+     id="text31"
+     x="497.62601"
+     y="489">PRECINCT 5</text>
+</svg>
