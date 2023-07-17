@@ -1,4 +1,4 @@
 ﻿[
-    {"proj_id":"533","Project ID":"QIDD-IMS-D-S2.R1","Status_Date":"2022-01-01T00:00:00","Status":null,"Name":"Qiddiya IMS - Rev.01 (Master Version)"},
-{"proj_id":"631","Project ID":"QIDD-IMS-D-S2.R1-PP","Status_Date":"2022-01-01T00:00:00","Status":null,"Name":"Qiddiya IMS - Rev.01"}
+    {"proj_id":"533","Project ID":"QIDD-IMS-D-S2.R1","Status_Date":"2022-01-01T00:00:00","Status":null,"Name":"Master Version"},
+{"proj_id":"631","Project ID":"QIDD-IMS-D-S2.R1-PP","Status_Date":"2022-01-01T00:00:00","Status":null,"Name":"Scenario 1"}
 ]
